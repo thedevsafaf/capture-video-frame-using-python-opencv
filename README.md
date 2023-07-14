@@ -26,12 +26,13 @@ press q
 
 Snapshot:
 
-![capture snapshot](https://github.com/thedevsafaf/capture-video-frame-using-python-opencv/assets/85129653/27b19a56-a00f-4235-bbd9-f59f874a5b6c)
+![capture snapshot](https://github.com/thedevsafaf/capture-video-frame-using-python-opencv/assets/85129653/8fed6909-7f31-41fa-b6f8-65c595a40faa)
 
 Demo: 
 
-https://github.com/thedevsafaf/capture-video-frame-using-python-opencv/assets/85129653/97c9a1c1-b726-4853-bc26-fa50b47eb902
+https://github.com/thedevsafaf/capture-video-frame-using-python-opencv/assets/85129653/5ef94baa-8e26-4f6f-98a8-bad8766933e6
 
-https://github.com/thedevsafaf/capture-video-frame-using-python-opencv/assets/85129653/f94f44cd-d102-430f-a649-4f2d9c3decac
+
+https://github.com/thedevsafaf/capture-video-frame-using-python-opencv/assets/85129653/fccb3b5c-c880-416b-a9e5-bde1aae13b29
 
 
